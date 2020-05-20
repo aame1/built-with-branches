@@ -9,5 +9,9 @@ header {
     width: 80px;
     height: 80px;
     margin-top: 20px;
-    
+
 }
+
+p {
+    font-family: fantasy;
+  }
