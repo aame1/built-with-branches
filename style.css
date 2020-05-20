@@ -1,5 +1,5 @@
 header {
-    border-style none none solid none;
+    border-style: none none solid none;
 
 
 }
@@ -21,6 +21,7 @@ p {
   }
 
   * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside */
+
 aside {
   width: 40%;
   padding-left: .5rem;
@@ -31,6 +32,7 @@ aside {
 }
 
 /* https://www.developerdrive.com/8-simple-css-hover-effects/ */
+
 @keyframes bounce {
 	0%, 20%, 60%, 100% {
 		-webkit-transform: translateY(0);
@@ -51,3 +53,4 @@ aside {
 .footer-img:hover {
   animation: bounce 1s;
 }
+
