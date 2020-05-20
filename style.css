@@ -23,12 +23,15 @@ p {
   * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside */
 
 aside {
+  
   width: 40%;
   padding-left: .5rem;
   margin-left: .5rem;
   float: right;
   box-shadow: inset 5px 0 5px -5px #29627e;
   font-style: italic;
+  display: block;
+  
 }
 
 /* https://www.developerdrive.com/8-simple-css-hover-effects/ */
